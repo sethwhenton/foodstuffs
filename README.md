@@ -1,6 +1,6 @@
 # foodstuffs
 
-UI for sales app
+UI for a simple sales app
 
 ## Getting Started
 
